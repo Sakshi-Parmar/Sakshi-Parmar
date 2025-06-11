@@ -6,13 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-parmar" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, TypeScript**
-
 - 📫 How to reach me **sakshiparmarr123@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1bphhCj8Wt2Qq-3M_9X2IkQ5O757S_4r7">Resume</a>
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/sakshi-parmar-440a5820a">Sakshi-Parmar</a> </h3>
 <p align="left">
