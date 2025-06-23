@@ -1,5 +1,5 @@
 <img alt="cdxc" src="https://raw.githubusercontent.com/Sakshi-Parmar/Sakshi-Parmar/main/Screenshot%202023-07-05%20213632.png">
-<h3 align="center">Passionate Full Stack Web Developer skilled in JavaScript, HTML, CSS, React.js, and Redux. Committed to continuous learning, collaboration, and delivering top-notch websites that meet organizational objectives and industry standards.</h3>
+<h3 align="center">Full Stack Web Developer skilled in JavaScript, HTML, CSS, React.js, and Redux. Committed to continuous learning, collaboration, and delivering top-notch websites that meet organizational objectives and industry standards.</h3>
 
 <img align="right" alt="sakshi-git" width="400" src="https://camo.githubusercontent.com/7bd894777f6dc714f5d98068bf7be537fc863a7275e817ca27d890e2c8ebaa81/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323835313030322f73637265656e73686f74732f373733363936352f6d656469612f65303865303637366464353461653837313563326437326262646435316562322e676966">
 
